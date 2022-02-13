@@ -4,11 +4,6 @@
  Enthusiastic in robotics and craftsmanship, I have been working with programming and technologies for more than 10 years, in this periodic experience I had the opportunity to work and accompany several areas such as architecture, management and systems/software development; information storage, security and processing; startups and business plan, among other areas. I dedicate myself to studying and developing applications for various platforms. Focused on agile methodologies, security and the culture of knowledge and information sharing.
 
 Always learning, always studying.
-  
-------------------------------------------------------------------------------------------------------------------------------------
-Entusiasta em robótica e artesanato, trabalho há mais de 10 anos com programação e tecnologias, nessa experiência periódica tive a oportunidade de atuar e acompanhar diversas áreas como arquitetura, gerenciamento e desenvolvimento de sistemas/softwares; armazenamento, segurança e processamento de informações; startups e plano de negocios, entre outras areas. Eu me dedico a estudar e desenvolver aplicativos para diversas plataformas. Focado em metodologias ágeis, segurança e na cultura do conhecimento e compartilhamento da informação. 
-
-Sempre aprendendo, sempre estudando.
  </p>
 </div>
  <div style="width: 50%;">
